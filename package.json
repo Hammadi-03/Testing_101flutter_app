@@ -5,12 +5,12 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start":   "node commitManager.js run",
+    "start": "node commitManager.js run",
     "run:dry": "node commitManager.js dry",
-    "status":  "node commitManager.js status",
-    "log":     "node commitManager.js log",
-    "reset":   "node commitManager.js reset",
-    "test":    "echo \"Error: no test specified\" && exit 1"
+    "status": "node commitManager.js status",
+    "log": "node commitManager.js log",
+    "reset": "node commitManager.js reset",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
